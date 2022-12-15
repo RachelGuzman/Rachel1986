@@ -3,7 +3,11 @@
 # I am Rachel.
 
 Hi, welcome to my page!<br/><br/>
- I’m currently doing a Java FullStack's Bootcamp at SoulCode Academy.<br/>
+ I’m currently doing a Java FullStack's Bootcamp at SoulCode Academy.<br/> 
+ 
+ <div align="center">
+<img src="https://user-images.githubusercontent.com/61168357/207781516-9d87d7c7-bda1-48bd-8d6a-2856ff7c25f3.jpg" width="400px" />
+</div><br/>
  
  <div align="center">
   <a href="https://github.com/rachel1986">
