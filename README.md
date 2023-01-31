@@ -1,15 +1,21 @@
+ <div style="display: flex; justify-content: space-between;">
+ <div>
 ### Hello. Hola. Salut. Olá.
 
 # I am Rachel.
 
 Hi, welcome to my page!<br/><br/>
- I’m currently doing a Java FullStack's Bootcamp at SoulCode Academy.<br/> 
+ I’m currently doing a Java FullStack's Bootcamp at SoulCode Academy.
  
- <div align="center">
-<img src="https://user-images.githubusercontent.com/61168357/207781516-9d87d7c7-bda1-48bd-8d6a-2856ff7c25f3.jpg" width="400px" />
-</div><br/>
+ </div> 
  
- <div align="center">
+<div>
+<img src="https://user-images.githubusercontent.com/61168357/207781516-9d87d7c7-bda1-48bd-8d6a-2856ff7c25f3.jpg" width="300px"/>
+</div>
+ </div><br/>
+
+ 
+ <div >
   <a href="https://github.com/rachel1986">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rachel1986&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachel1986&layout=compact&langs_count=7&theme=dracula"/>
